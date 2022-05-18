@@ -23,26 +23,26 @@ Para la realización del mismo, se han utilizado determinadas tecnologías, tale
 
 -Javascript
 
-##Home
+## Home
 
 Obtendremos una visualización de todos los productos del e-commerce ingresando en esta vista.
 
-##Details
+## Details
 
 Aquí podremos conocer los detalles de cada uno de los productos en particual. Se accede haciendo "click" en "detalles"
 
-##Navbar 
+## Navbar 
 
 Encontraremos cada una de las categorías de dicho e-commerce. Entre estas se encuentran:
 
--Camuflados
+- Camuflados
 
--Personalizados
+- Personalizados
 
--Lisos
+- Lisos
 
--Estampados
+- Estampados
 
-##Cart
+## Cart
 
 Sección en la cual se enseñan todos aquellos productos agregados al carrito, listos para que su compra sea realizada
