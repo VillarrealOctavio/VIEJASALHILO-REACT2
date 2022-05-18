@@ -24,6 +24,7 @@ Para la realización del mismo, se han utilizado determinadas tecnologías, tale
 -Javascript
 
 ##Home
+
 Obtendremos una visualización de todos los productos del e-commerce ingresando en esta vista.
 
 ##Details
