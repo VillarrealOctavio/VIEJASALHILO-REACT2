@@ -1,70 +1,47 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Viejas al Hilo
 
-## Available Scripts
+Se trata de un proyecto desarrollado para el curso de React en la plataforma de CoderHouse
 
-In the project directory, you can run:
+## Autor
+El presente proyecto ha sido desarrollado por Octavio Villarreal.
 
-### `npm start`
+## Teconologías 
+Para la realización del mismo, se han utilizado determinadas tecnologías, tales como:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-Firebase
 
-### `npm test`
+-Bootstrap
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-Material UI
 
-### `npm run build`
+-HTML
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-Javascript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##Home
+Obtendremos una visualización de todos los productos del e-commerce ingresando en esta vista.
 
-### `npm run eject`
+##Details
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Aquí podremos conocer los detalles de cada uno de los productos en particual. Se accede haciendo "click" en "detalles"
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+##Navbar 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Encontraremos cada una de las categorías de dicho e-commerce. Entre estas se encuentran:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-Camuflados
 
-## Learn More
+-Personalizados
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-Lisos
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-Estampados
 
-### Code Splitting
+##Cart
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sección en la cual se enseñan todos aquellos productos agregados al carrito, listos para que su compra sea realizada
