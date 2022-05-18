@@ -9,19 +9,19 @@ El presente proyecto ha sido desarrollado por Octavio Villarreal.
 ## Teconologías 
 Para la realización del mismo, se han utilizado determinadas tecnologías, tales como:
 
--React
+- React
 
--Firebase
+- Firebase
 
--Bootstrap
+- Bootstrap
 
--Material UI
+- Material UI
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--Javascript
+- Javascript
 
 ## Home
 
